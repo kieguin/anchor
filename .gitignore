@@ -1,0 +1,6 @@
+# IDE's
+.vscode/
+.idea/
+
+# Environment variables and secret keys
+.env
